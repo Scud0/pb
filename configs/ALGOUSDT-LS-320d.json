@@ -1,6 +1,0 @@
-{"config_name": "ALGOUSDT long WE: 1.0, ADGWE: 0.183, Days: 313, BKR: 0.998, HrsStuck:78, UnstuckE/C: 0/0, PaDMean/Max: 0.015/0.177, ALGOUSDT short WE: 1.0, ADGWE: 0.323, Days: 313, BKR: 0.601, HrsStuck:162, UnstuckE/C: 0/0, PaDMean/Max: 0.032/0.197",
- "logging_level": 0,
- "long": {"auto_unstuck_ema_dist": 0.0, "auto_unstuck_wallet_exposure_threshold": 0.0, "backwards_tp": true, "ddown_factor": 1.175332723575498, "ema_span_0": 828.3024985703921, "ema_span_1": 120.0, "enabled": true, "initial_eprice_ema_dist": -0.014101937347791582, "initial_qty_pct": 0.036359955776768045, "markup_range": 0, "min_markup": 0.005042466448048776, "n_close_orders": 16.375663195471983, "rentry_pprice_dist": 0.04648510903430861, "rentry_pprice_dist_wallet_exposure_weighting": 0, "wallet_exposure_limit": 1.0}
- ,
- "short": {"auto_unstuck_ema_dist": 0.0, "auto_unstuck_wallet_exposure_threshold": 0.0, "backwards_tp": true, "ddown_factor": 0.05, "ema_span_0": 120, "ema_span_1": 120, "enabled": true, "initial_eprice_ema_dist": -0.004010550817002758, "initial_qty_pct": 0.05, "markup_range": 0.025910683024393616, "min_markup": 0.02, "n_close_orders": 20, "rentry_pprice_dist": 0.005, "rentry_pprice_dist_wallet_exposure_weighting": 43.98730526841242, "wallet_exposure_limit": 1.0}
- }

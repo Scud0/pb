@@ -1,8 +1,0 @@
-{"config_name": "MATICUSDT - clock mode - BITGET: long WE: 1.0, ADGWE: 0.432, Days: 832, BKR: 1.000, HrsStuck:72, UnstuckE/C: 4633/1984, PaDMean/Max: 0.023/0.291; short: DISABLED",
- "logging_level": 0,
- "long":
- {"delay_between_fills_minutes_close": 2239.2853265077724, "delay_between_fills_minutes_entry": 2976.0732970329163, "delay_weight_close": 199.52859152584307, "delay_weight_entry": 12.24236784169561, "ema_dist_lower": 0.0028051613528621076, "ema_dist_upper": 0.0018340700177864203, "ema_span_0": 1373.2172775460906, "ema_span_1": 1460.5243449700242, "enabled": true, "markup_range": 0.004332327703928285, "min_markup": 0.0020000192657576247, "n_close_orders": 8.236664859292038, "qty_pct_close": 0.02088978123355536, "qty_pct_entry": 0.07157482357273261, "wallet_exposure_limit": 1.0, "we_multiplier_close": 4.523688863375051, "we_multiplier_entry": 767.2252173599888, "backwards_tp": true}
- ,
- "short":
- {"delay_between_fills_minutes_close": 2239.2853265077724, "delay_between_fills_minutes_entry": 2976.0732970329163, "delay_weight_close": 199.52859152584307, "delay_weight_entry": 12.24236784169561, "ema_dist_lower": 0.0028051613528621076, "ema_dist_upper": 0.0018340700177864203, "ema_span_0": 1373.2172775460906, "ema_span_1": 1460.5243449700242, "enabled": false, "markup_range": 0.004332327703928285, "min_markup": 0.0020000192657576247, "n_close_orders": 8.236664859292038, "qty_pct_close": 0.02088978123355536, "qty_pct_entry": 0.07157482357273261, "wallet_exposure_limit": 1.0, "we_multiplier_close": 4.523688863375051, "we_multiplier_entry": 767.2252173599888, "backwards_tp": true}
- }
