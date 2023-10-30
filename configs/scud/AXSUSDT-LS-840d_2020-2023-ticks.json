@@ -1,0 +1,8 @@
+{"config_name": "AXSUSDT Long ADGWE:0.153 HrsStuck:132 BKR:0.997 PaDMean/Max:0.019/1.250 Days:848 Start:2020-10-01 End:2023-01-26 GridSpan:47.42 BackwardsTP:True GridType:recursive; short WE: 1.0, ADGWE: 0.508, Days: 158, BKR: 0.412, HrsStuck:91, UnstuckE/C: 18/0, PaDMeanMax: 0.014/0.287",
+ "logging_level": 0,
+ "long":
+{"auto_unstuck_ema_dist": 0.0, "auto_unstuck_wallet_exposure_threshold": 0.0, "backwards_tp": true, "ddown_factor": 1.290503352876454, "ema_span_0": 1461.4816104329677, "ema_span_1": 2435.675310162899, "enabled": true, "initial_eprice_ema_dist": 0.009289044557242405, "initial_qty_pct": 0.015, "markup_range": 0.00132936421757625, "min_markup": 0.0027644392261913426, "n_close_orders": 6, "rentry_pprice_dist": 0.007193018747032388, "rentry_pprice_dist_wallet_exposure_weighting": 47.20624801721898, "wallet_exposure_limit": 1.0}
+ ,
+ "short":
+{"auto_unstuck_ema_dist": 0.0, "auto_unstuck_wallet_exposure_threshold": 0.0, "backwards_tp": true, "ddown_factor": 1.1922571151848516, "ema_span_0": 3837.551891650619, "ema_span_1": 2624.2253110104148, "enabled": true, "initial_eprice_ema_dist": -0.1, "initial_qty_pct": 0.012043941690651518, "markup_range": 0, "min_markup": 0.01518841267256246, "n_close_orders": 5, "rentry_pprice_dist": 0.02035442490061036, "rentry_pprice_dist_wallet_exposure_weighting": 5.802344033892898, "wallet_exposure_limit": 1.0}
+ }
