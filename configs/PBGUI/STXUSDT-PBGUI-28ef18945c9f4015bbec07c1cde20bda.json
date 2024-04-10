@@ -1,0 +1,40 @@
+{
+  "config_name": "neat_grid_XTZUSDT_876days",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0,
+    "auto_unstuck_wallet_exposure_threshold": 0,
+    "backwards_tp": true,
+    "ema_span_0": 1,
+    "ema_span_1": 1,
+    "enabled": true,
+    "eprice_exp_base": 1,
+    "eqty_exp_base": 2.15,
+    "grid_span": 0.15,
+    "initial_eprice_ema_dist": -1,
+    "initial_qty_pct": 0.03,
+    "markup_range": 0.01,
+    "max_n_entry_orders": 6,
+    "min_markup": 0.01,
+    "n_close_orders": 1,
+    "wallet_exposure_limit": 1
+  },
+  "short": {
+    "auto_unstuck_ema_dist": 0,
+    "auto_unstuck_wallet_exposure_threshold": 0,
+    "backwards_tp": true,
+    "ema_span_0": 1,
+    "ema_span_1": 1,
+    "enabled": true,
+    "eprice_exp_base": 1,
+    "eqty_exp_base": 2.15,
+    "grid_span": 0.15,
+    "initial_eprice_ema_dist": -1,
+    "initial_qty_pct": 0.03,
+    "markup_range": 0.01,
+    "max_n_entry_orders": 6,
+    "min_markup": 0.01,
+    "n_close_orders": 1,
+    "wallet_exposure_limit": 1
+  }
+}
