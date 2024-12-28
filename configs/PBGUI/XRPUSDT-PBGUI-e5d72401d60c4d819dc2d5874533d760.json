@@ -1,0 +1,40 @@
+{
+  "config_name": "neat_grid_0days",
+  "logging_level": 0,
+  "long": {
+    "auto_unstuck_ema_dist": 0.002,
+    "auto_unstuck_wallet_exposure_threshold": 0.04,
+    "backwards_tp": false,
+    "ema_span_0": 1,
+    "ema_span_1": 1,
+    "enabled": true,
+    "eprice_exp_base": 1.12,
+    "eqty_exp_base": 1.4,
+    "grid_span": 0.1,
+    "initial_eprice_ema_dist": 0.0001,
+    "initial_qty_pct": 0.02,
+    "markup_range": 0.0075,
+    "max_n_entry_orders": 10,
+    "min_markup": 0.0075,
+    "n_close_orders": 1,
+    "wallet_exposure_limit": 2.5
+  },
+  "short": {
+    "auto_unstuck_ema_dist": 0.0013,
+    "auto_unstuck_wallet_exposure_threshold": 0.025,
+    "backwards_tp": false,
+    "ema_span_0": 1065.7,
+    "ema_span_1": 172.2,
+    "enabled": false,
+    "eprice_exp_base": 1,
+    "eqty_exp_base": 2.22,
+    "grid_span": 0.14,
+    "initial_eprice_ema_dist": 0.0025,
+    "initial_qty_pct": 0.01,
+    "markup_range": 0.0008,
+    "max_n_entry_orders": 18,
+    "min_markup": 0.002,
+    "n_close_orders": 0,
+    "wallet_exposure_limit": 0.0
+  }
+}
